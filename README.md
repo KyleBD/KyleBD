@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kyle Dyer</h1>
-<h3 align="center">I am a Computer Engineering student at the University of Toronto. I am passionate about programming, and interested in how it can be used in finance. Currently I am creating projects mainly with Python and C++ for both school and in my personal time.</h3>
+<h3 align="center">I am a Computer Engineering student at the University of Toronto. I am passionate about programming, and interested in how it can be used in finance. Currently I am creating projects mainly with C++, Python, and Verilog for both school and in my personal time.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
