@@ -6,7 +6,7 @@
 <a href="https://linkedin.com/in/kylebradleydyer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kylebradleydyer" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kylebd&show_icons=true&locale=en&layout=compact" alt="kylebd" /></p>
+<!--<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kylebd&show_icons=true&locale=en&layout=compact" alt="kylebd" /></p>
 
 <!--
 **KyleBD/KyleBD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
