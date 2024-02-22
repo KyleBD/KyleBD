@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kyle Dyer</h1>
-<h3 align="center">I am a Computer Engineering student at the University of Toronto. I am passionate about programming, and interested in how it can be used in finance. Currently I am creating projects mainly with Python and C++ for both school and in my personal time.</h3>
+<h3 align="center">I am a Computer Engineering student at the University of Toronto. I am passionate about programming, and specifically interested in how it can be used in finance. Currently I am creating projects mainly with Python and C++ for both school and in my personal time.</h3>
+
+
+- 🔭 I’m currently working on:
+  - [Securities Analysis](https://github.com/KyleBD/SecuritiesAnalysis)
+  - [NBA Prediction Algorithm](https://github.com/KyleBD/NBA-Prediction-Algorithm)
+  - C++ Maping Software utalizing OpenStreetMap as a school project (Please Contact for Details)
+
+
 
 
 
@@ -31,6 +39,8 @@
 <a href="https://linkedin.com/in/kylebradleydyer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kylebradleydyer" height="30" width="40" /></a>
 </p>
 
-<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kylebd&show_icons=true&locale=en&layout=compact" alt="kylebd" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kylebd&show_icons=true&locale=en&layout=compact" alt="kylebd" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kylebd&show_icons=true&locale=en" alt="kylebd" /></p> -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kylebd&show_icons=true&locale=en" alt="kylebd" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kylebd&" alt="kylebd" /></p>
