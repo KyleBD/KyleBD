@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on:
   - [Securities Analysis](https://github.com/KyleBD/SecuritiesAnalysis)
   - [NBA Prediction Algorithm](https://github.com/KyleBD/NBA-Prediction-Algorithm)
-  - C++ Maping Software utalizing OpenStreetMap as a school project (Please Contact for Details)
+  - C++ Maping Software: Utalizing OpenStreetMap to get data on major cities around the world and present that data in a GUI. The map is catered towards commuters and allows for optimized path finding around the cities. (Please Contact for Details)
 
 
 
